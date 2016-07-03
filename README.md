@@ -1,5 +1,4 @@
 # Permission Skills
-Permission Skills Source-code
 Permission Skills adds 61 skills to your server which greatly enhances the role playing experience. All skills can be allocated to players through a regular permissions plugin and can be customised to your hearts content. You can add the skills to a group of players or individual players to create unique guilds, races and factions or even add perks to players who donate.
 
 # Skills
