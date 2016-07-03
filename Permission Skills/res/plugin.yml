@@ -1,0 +1,20 @@
+name: PermissionSkills
+main: me.kingpsychopath.PermissionSkills.PermissionSkills
+version: v1.0.0
+commands:
+  pss:
+    description: Various commands for PermissionSkills.
+    usage: /<command> <arg>
+permissions:
+    pss.reload:
+        description: Reloads the Permission Skills plugin
+        default: op
+    pss.exempt:
+        description: Sets a player as temporarily exempt
+        default: op
+    pss.search:
+        description: Search through the list of permissions by array
+        default: op
+    pss.list:
+        description: List all possible permissions
+        default: op

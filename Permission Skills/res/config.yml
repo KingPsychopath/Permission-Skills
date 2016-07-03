@@ -1,0 +1,46 @@
+DebugMessages: true
+ExemptOp: false
+ExemptCreative: true
+PowerValues:
+- 0
+- 25
+- 50
+- 75
+- 100
+- 200
+- 250
+- 500
+- 1000
+MultiplierValues:
+- 0
+- 25
+- 50
+- 75
+- 100
+- 200
+- 250
+- 500
+- 1000
+TickValues:
+- 0
+- 100
+- 250
+- 500
+- 750
+- 1000
+CoolDownValues:
+- 0
+- 10
+- 30
+MinMaxValues:
+- 20
+- 200
+HealthValues:
+- 5
+- 10
+- 15
+- 20
+DamageValues:
+- 1
+- 2
+- 5
