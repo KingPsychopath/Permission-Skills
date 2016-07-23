@@ -6,9 +6,4 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping ext="yml" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
 </application>
